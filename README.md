@@ -2,7 +2,8 @@
 
 Hello! This is Sora here
 
-Feel free to use any of my ao3 site skins 
+Feel free to use any of my ao3 site skins
+
 I've organised it so you can see the photo of the design first, and then the code 
 
 Below are steps on how to install the site skin, but if you want more **detailed instructions** with photos, check this: https://docs.google.com/document/d/1YtkBxInBj4R9NlBhPQLJSt432wpClR56_kwpUwuwVe0/edit?usp=sharing
