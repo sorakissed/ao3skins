@@ -1,0 +1,423 @@
+#header {
+  background-image: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/flyingcastle.png");
+  background-repeat: no-repeat;
+  background-position: center 55%;
+  background-color: #000;
+  height: 240px;
+  background-size: cover;
+}
+
+#outer.wrapper {
+  background: #2e402f;
+  background-image: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/green.jpg");
+  background-size: 30% auto;
+  background-repeat: repeat;
+  background-position: center top;
+  color: #dedca9;
+}
+
+#inner.wrapper {
+  margin: 0em 4%;
+}
+
+#main,
+#inner.wrapper,
+.listbox .index,
+.work.own,
+.thread .even {
+  background: #334f34;
+}
+
+#main .heading {
+  color: #dedca9 !important;
+}
+
+#header .heading {
+  height: 15em;
+}
+
+#header .primary {
+  background: #2e402f;
+}
+
+#header .logo,
+#header .heading sup {
+  visibility: hidden;
+}
+
+#header .heading a {
+  color: #dedca9;
+}
+
+#header .heading {
+  margin-left: 0;
+}
+
+#header .heading a {
+  margin-left: 0;
+}
+
+.event .userstuff {
+  background: #223647;
+  border: 1px solid #dedca9;
+}
+
+.filtering .filters #leave_filters {
+  background: #2e402f;
+  color: #dedca9;
+}
+
+#main a {
+  color: #fff;
+}
+
+#greeting a.dropdown-toggle,
+#header .actions a {
+  color: #dedca9 !important;
+}
+
+#greeting .menu,
+#header .dropdown .menu,
+#header .dropdown:hover a {
+  background: #2e402f;
+}
+
+span.submit.actions input.button {
+  display: none;
+}
+
+#greeting img.icon {
+  display: none;
+}
+
+#header #search .text,
+.search [role="tooltip"] {
+  background: #2e402f;
+  color: #dedca9 !important;
+  border: 1px solid #2e402f;
+}
+
+form.search input[type=text],
+form.search input[type=submit],
+.autocomplete div.dropdown ul {
+  background: #2e402f !important;
+  border: none;
+  color: #dedca9;
+}
+
+#header #search .text {
+  width: 7em;
+}
+
+.notice,
+.comment_notice,
+.kudos_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash {
+  color: #dedca9;
+  background: #2e402f;
+  border: none;
+}
+
+.notice a,
+.comment_notice a,
+.kudos_notice a,
+ul.notes a,
+.caution a,
+.error a,
+.comment_error a,
+.kudos_error a,
+.alert.flash a {
+  color: #dedca9;
+  font-weight: bold;
+}
+
+.splash .module h3 {
+  color: #dedca9;
+  border-bottom: 2px solid #dedca9;
+}
+
+.splash .favorite li:nth-of-type(2n+1) a {
+  color: #dedca9;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 110%;
+  background: #2e402f;
+}
+
+.splash .favorite li:nth-of-type(2n+2) a {
+  color: #dedca9;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 110%;
+  background: #2e402f;
+}
+
+.splash .favorite li:nth-of-type(2n+1) a:hover,
+.splash .favorite li:nth-of-type(2n+2) a:hover {
+  color: #dedca9;
+  font-weight: bold;
+  font-variant: small-caps;
+  background: #dedca9;
+}
+
+#footer {
+  background: #2f4a30;
+  color: #dedca9;
+  border-top: 3px solid #dedca9;
+}
+
+#footer a,
+#footer .heading {
+  color: #dedca9;
+}
+
+.actions a,
+.actions a:focus,
+.actions input:focus,
+.action:focus,
+.actions button,
+.actions li input,
+.actions li input[type="submit"],
+input[type="submit"],
+.actions li label,
+ul.navigation.actions li a,
+.action:link,
+.actions a:link {
+  background: #223647;
+  border: 1px solid #dedca9;
+  color: #dedca9;
+  border-radius: 5px;
+}
+
+.current,
+#dashboard .current {
+  background: #2e402f !important;
+  color: #dedca9 !important;
+  border-radius: 5px;
+}
+
+#dashboard.own {
+  border-top: 5px solid #dedca9;
+  border-bottom: 5px solid #dedca9;
+}
+
+#dashboard a:hover {
+  background: #2e402f;
+  color: #dedca9 !important;
+}
+
+#dashboard a {
+  color: #dedca9;
+}
+
+dl.meta {
+  border: 1px solid #dedca9;
+}
+
+.listbox .index {
+  background: #2e402f;
+}
+
+.listbox,
+fieldset fieldset.listbox {
+  background: #2e402f;
+}
+
+form dl,
+fieldset,
+fieldset fieldset,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+input,
+select,
+select:focus,
+textarea,
+span.symbol.question,
+.own {
+  background: #2e402f !important;
+  color: #dedca9 !important;
+  border: 1px solid #dedca9;
+}
+
+.autocomplete li.added,
+.post .meta dd ul li.added,
+label,
+label.required {
+  color: #dedca9;
+}
+
+span.delete {
+  background: #2e402f;
+}
+
+span.delete a {
+  color: #fff;
+  font-weight: bold;
+}
+
+.delete a,
+span.delete {
+  box-shadow: -1px -1px 2px rgba(255,255,255.25);
+}
+
+.ui-sortable li,
+.dynamic form,
+div.dynamic {
+  background: #2e402f;
+  border: 1px solid #dedca9;
+}
+
+.dropdown {
+  background: #2e402f;
+}
+
+form.verbose legend,
+.verbose form legend {
+  background: #2e402f;
+  color: #dedca9;
+}
+
+li.blurb {
+  border: 1px solid #dedca9;
+}
+
+.draft {
+  background: #2e402f;
+  color: #dedca9;
+}
+
+#header h2,
+.draft .wrapper {
+  background: #2e402f;
+  border: 1px solid #dedca9;
+}
+
+#stat_chart svg {
+  filter: invert(90%) sepia(150%) brightness(60%) hue-rotate(60deg) saturate(120%);
+}
+
+.reading h4.viewed,
+dl.index dd,
+table,
+th,
+dt.child {
+  background: #2e402f;
+}
+
+#modal,
+span.replied {
+  background: #2e402f;
+  color: #dedca9;
+  border: 2px solid #dedca9;
+}
+
+.thread .even {
+  background: #223647;
+}
+
+.unread {
+  background: #2e402f;
+}
+
+span.unread {
+  background: #2e402f;
+  color: #dedca9;
+}
+
+.relationships .tag,
+.work .relationships a.tag,
+dd.relationship.tags a {
+  background: none;
+  color: #dedca9 !important;
+  font-weight: bold;
+}
+
+.filters .expander {
+  background: url("https://64.media.tumblr.com/3c89981f933f9f57157d6dcec6fd85a7/94c6737c6db9ad60-e5/s1280x1920/f7557e617a5439c506721bd326580a0cb4c1f8d8.png") left center no-repeat;
+  color: #dedca9 !important;
+  font-weight: bold;
+}
+
+.filters .expanded .expander {
+  background: url("https://64.media.tumblr.com/dab095a2fd9387bc1e0c57747ba6b13f/94c6737c6db9ad60-ad/s1280x1920/c1a4e14e0565cdcac5d3e20bebac3ab440f2d607.png") left center no-repeat;
+}
+
+.blurb h4 a:visited {
+  color: #91a191 !important;
+}
+
+#main a:hover {
+  background: #2e402f;
+  color: #dedca9;
+}
+
+.statistics .index li:nth-of-type(2n) {
+  background: #2e402f;
+}
+
+#header .heading {
+  position: relative;
+  left: -40px;
+}
+
+#header #search .text,
+form.search input[type=text],
+form.search input[type=submit],
+.autocomplete div.dropdown ul {
+  background: #2e402f !important;
+  color: #dedca9 !important;
+  border: 1px solid #666666;
+}
+
+h4.heading.byline {
+  background: #2e402f;
+  color: #dedca9;
+}
+
+#header form.search input[type="submit"] {
+  display: none !important;
+}
+
+#dashboard {
+  border: none !important;
+}
+
+#dashboard,
+#dashboard .primary,
+#dashboard .navigation {
+  border-top: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .menu,
+#small_login,
+.group.listbox,
+fieldset fieldset.listbox,
+form blockquote.userstuff,
+input:focus,
+textarea:focus,
+li.relationships a,
+.group.listbox .index,
+.dashboard fieldset fieldset.listbox .index,
+#dashboard a:hover,
+th,
+#dashboard .secondary,
+.secondary,
+.work.navigation .download,
+.javascript .work.navigation .download .secondary,
+.thread .even,
+.ui-datepicker tr:hover {
+  background: #2e402f;
+}
