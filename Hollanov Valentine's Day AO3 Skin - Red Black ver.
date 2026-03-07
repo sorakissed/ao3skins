@@ -1,0 +1,617 @@
+html, body {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+#header h1 sup,
+#greeting .icon,
+#header .button,
+#header .landmark,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0em 4%;
+}
+
+#main,
+#inner.wrapper,
+.listbox .index,
+.work.own,
+.thread .even {
+  background: #0f0303;
+}
+
+body,
+a {
+  color: #fff;
+}
+
+a {
+  color: #fff;
+}
+
+#outer.wrapper {
+  background: #000;
+  padding-top: 140px;
+  background-image: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/heart.jpg");
+  background-size: 40% auto;
+  background-repeat: repeat;
+  background-position: center top;
+}
+
+
+#header .heading {
+  margin: 20px 0px 10px 20px;
+  border: 2px solid #5c0418;
+  background-image: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/colourstars.jpg");
+  background-size: 100% auto;
+  border-radius: 20px;
+  width: 130px;
+  height: 80px;
+  display: block;
+}
+
+#header {
+  background-color: #0f0303;
+  border-radius: 20px;
+  border: 10px solid #5c0418;
+  box-shadow: 0 0 4px #000;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: none;
+}
+
+#header .primary li:first-child {
+  margin-left: 0em;
+}
+
+#header .heading a {
+  color: #fff;
+  font-size: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#header h1.heading a::after {
+  content: "";
+  display: block;
+  width: 130px;
+  height: 140px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/valentinehollanov.png") no-repeat center;
+  background-size: contain;
+}
+
+#greeting {
+  color: #fff;
+  background: none;
+  margin-right: 0em;
+  padding: 20px;
+}
+
+#greeting li {
+  clear: left;
+  border-bottom: 1px dashed #fff;
+  margin-top: 0.3em;
+}
+
+#greeting .icon img {
+  margin-top: 0.3em;
+  border: 2px solid #fff;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #fff;
+}
+
+#footer {
+  border: none;
+  background: none;
+}
+
+.blurb h4 a:link,
+#footer h4 {
+  color: #fff;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #1c1a1a;
+  color: #fff;
+  border: 2px solid #1c1a1a;
+  box-shadow: 0 0 2px #000;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #1c1a1a;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  box-shadow: none;
+  background: #1c1a1a;
+  color: #fff;
+}
+
+#dashboard ul {
+  background: transparent;
+  border: none;
+}
+
+.splash .module h3,
+.splash .news li,
+.home .header h2,
+li.comment,
+dl.meta,
+.bookmark .user,
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+.flash,
+.notice,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #1c1a1a;
+}
+
+.comment h4.byline,
+#main .verbose legend,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+.verbose fieldset,
+.draft,
+form ul.notes,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #1c1a1a;
+  border-color: #1c1a1a;
+}
+
+.flash,
+.notice {
+  background-color: #1c1a1a;
+  border-color: #fff;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background-color: #000;
+  border-color: #234075;
+}
+
+.alert.flash,
+.error,
+.comment_error,
+.kudos_error {
+  background: #efd1d1;
+  color: #fff;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+.bookmark .user,
+.bookmark .user .header,
+.reading h4.viewed,
+li.relationships a,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #1c1a1a;
+}
+
+.bookmark .user {
+  border-radius: 5px;
+}
+
+.filters .submit input {
+  color: #FFF;
+  background: #1c1a1a;
+  border: 1px solid #1c1a1a;
+  border-radius: 10px;
+  box-shadow: 0 0 4px #000;
+}
+
+.filters fieldset {
+  border-radius: 20px;
+}
+
+textarea,
+input,
+select,
+option,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background-color: #1c1a1a;
+}
+
+li.blurb,
+.listbox li.blurb {
+  border: 4px solid #1c1a1a;
+  border-radius: 20px;
+  box-shadow: 0 0 4px #000;
+}
+
+.blurb .header {
+  border-bottom: 2px solid #1c1a1a;
+}
+
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  box-shadow: none;
+}
+
+.reading h4.viewed {
+  border: 1px dashed #fff;
+}
+
+.icon {
+  border: 2px solid #fff;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+.workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.7em;
+  color: #fff;
+}
+
+a,
+a:link,
+a.tag,
+#header a,
+#header a:visited,
+#header .primary .open a,
+#header .primary .dropdown:hover a,
+#header .primary .dropdown a:focus,
+#header #search input:focus,
+#header #search input:hover,
+#dashboard a,
+#dashboard span,
+#dashboard .current,
+.heading,
+.group .heading,
+.filters dt a:hover {
+  color: #fff;
+}
+
+.actions a:active,
+.current,
+a.current,
+.current a:visited {
+  color: #fff;
+  background: #555;
+  border-color: #fff;
+  box-shadow: inset 1px 1px 3px #333;
+}
+
+#outer .group .heading,
+#header .actions a,
+fieldset.listbox .heading,
+.userstuff .heading,
+.heading,
+.userstuff h2 {
+  text-shadow: none;
+  color: #fff;
+  background: none;
+}
+
+.announcement .action:hover,
+.announcement .action:focus {
+  color: #fff;
+  box-shadow: inset 2px 2px 2px #000;
+}
+
+a.work,
+.blurb h4 a:link,
+.blurb h4 a:visited {
+  color: #fff !important;
+}
+
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+.splash .favorite li:nth-of-type(odd) a,
+.ui-datepicker td:hover,
+#tos_prompt .heading,
+#tos_prompt [disabled] {
+  background: #111;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .menu,
+#small_login,
+.group.listbox,
+fieldset fieldset.listbox,
+form blockquote.userstuff,
+input:focus,
+textarea:focus,
+li.relationships a,
+.group.listbox .index,
+.dashboard fieldset fieldset.listbox .index,
+#dashboard a:hover,
+th,
+#dashboard .secondary,
+.secondary,
+.work.navigation .download,
+.javascript .work.navigation .download .secondary,
+.thread .even,
+.ui-datepicker tr:hover {
+  background: #2a2a2a;
+}
+
+#filters .rating,
+#filters .warning,
+#filters .category {
+  color: #fff;
+}
+
+.filters fieldset dl dt {
+  color: #ffffff;
+}
+
+.filters dt button,
+.filters dt {
+  color: #ffffff !important;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/warning.png") no-repeat center;
+  background-size: contain;
+  background-position: center 2px;
+}
+
+li.warnings + li.relationships:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/relationship.png") no-repeat center;
+  background-size: contain;
+}
+
+li.relationships + li.characters:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 13px;
+  height: 13px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/character.png") no-repeat center;
+  background-size: contain;
+}
+
+li.characters + li.freeforms:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/tags.png") no-repeat center;
+  background-size: contain;
+}
+
+li.warnings + li.characters:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 13px;
+  height: 13px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/character.png") no-repeat center;
+  background-size: contain;
+  background-position: center 2px;
+}
+
+li.warnings + li.freeforms:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/tags.png") no-repeat center;
+  background-size: contain;
+}
+
+li.relationships + li.freeforms:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/tags.png") no-repeat center;
+  background-size: contain;
+}
+
+ul.tags li.relationships a {
+  color: #fff;
+}
+
+.bookmark .notes,
+.bookmark .userstuff,
+.bookmark .comment,
+.bookmark .meta {
+  color: #ffffff !important;
+}
+
+.bookmark form,
+.bookmark form label,
+.bookmark form legend,
+.bookmark form dt,
+.bookmark form dd {
+  color: #ffffff !important;
+}
+
+.bookmark input:not([type="submit"]):not([type="button"]):not([type="reset"]),
+.bookmark textarea,
+.bookmark select {
+  color: #ffffff !important;
+  background-color: #000000 !important;
+}
+
+#skin_css {
+  color: #ffffff !important;
+  background-color: #000000 !important;
+}
+
+input,
+textarea,
+table {
+  background: #333;
+  color: #eee;
+  border-color: #222;
+  outline: #111;
+  box-shadow: none;
+}
+
+li.blurb,
+.listbox li.blurb,
+.statistics li,
+.statistics .listbox,
+.statistics .blurb {
+  background-color: #1c1a1a !important;
+}
+
+.required label,
+.required legend,
+.tags label,
+.tags legend,
+.tags dt,
+.tags dd,
+#work_rating,
+#work_archive_warnings,
+#work_fandom_string,
+.autocomplete,
+.autocomplete li,
+.autocomplete span {
+  color: #ffffff !important;
+}
+
+#work_rating,
+#work_rating option,
+.required select,
+.required select option {
+  color: #ffffff !important;
+  background-color: #1c1a1a !important;
+}
