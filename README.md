@@ -1,4 +1,4 @@
-# ao3skins
+# AO3 site skins by @sorakissed
 
 Hello! This is Sora here
 
@@ -16,4 +16,10 @@ Below are steps on how to install the site skin, but if you want more **detailed
 6. Copy all the code (from any of the designs here) into the CSS section
 7. You will then be taken to a new page with your code. Now, scroll down all the way
 8. Select “use” and you’re done!!
+
+**Having issues?**
+Take a look at this troubleshooting google doc first for common issues:
+https://docs.google.com/document/d/1UxrhVCya3L-gEuPfKm9YM6zMXcGTspcNvocTUDcdPDQ/edit?tab=t.0
+
+Otherwise, feel free to find me on twitter/x @sorakissed 
 
