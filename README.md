@@ -6,8 +6,6 @@ Feel free to use any of my ao3 site skins
 
 You can browse through all my designs on AO3 here:
 
-Below are steps on how to install the site skin, but if you want more **detailed instructions with photos**, check this: https://docs.google.com/document/d/1YtkBxInBj4R9NlBhPQLJSt432wpClR56_kwpUwuwVe0/edit?usp=sharing
-
 **How to install AO3 site skins:**
 1. Select “Hi, _______” in top right corner
 2. Select “Dashboard”
@@ -17,6 +15,9 @@ Below are steps on how to install the site skin, but if you want more **detailed
 6. Copy all the code (from any of the designs here) into the CSS section
 7. You will then be taken to a new page with your code. Now, scroll down all the way
 8. Select “use” and you’re done!!
+
+If you want more **detailed instructions with photos**, check this: https://docs.google.com/document/d/1YtkBxInBj4R9NlBhPQLJSt432wpClR56_kwpUwuwVe0/edit?usp=sharing
+
 
 **Having issues?**
 Take a look at this troubleshooting google doc first for common issues:
