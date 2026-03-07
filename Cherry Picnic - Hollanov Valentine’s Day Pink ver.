@@ -1,0 +1,491 @@
+#header h1 sup,
+#greeting .icon,
+#header .button,
+#header .landmark,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0em 4%;
+}
+
+#main,
+#inner.wrapper,
+.listbox .index,
+.work.own,
+.thread .even {
+  background: #fae3eb;
+}
+
+#outer.wrapper {
+  background: #fcdee3;
+  padding-top: 140px;
+  background-image: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/cherr.jpg");
+  background-size: 50% auto;
+  background-repeat: repeat;
+  background-position: center top;
+}
+
+#header .heading {
+  margin: 20px 0px 10px 20px;
+  border: 2px solid #f5a2af;
+  background-color: #fac3cc;
+  border-radius: 20px;
+  width: 130px;
+  height: 80px;
+  display: block;
+}
+
+#header {
+  background-color: #fad7e4;
+  border-radius: 20px;
+  border: 10px solid #f5a2af;
+  box-shadow: 0 0 4px #000;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: none;
+  color: #0d1f3a;
+}
+
+#header .primary li:first-child {
+  margin-left: 0em;
+}
+
+#header .primary li,
+#header .primary li a,
+#greeting li,
+#greeting li a {
+  color: #0d1f3a;
+}
+
+#header .heading a {
+  color: #bf3b60;
+  font-size: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#header h1.heading a::after {
+  content: "";
+  display: block;
+  width: 130px;
+  height: 140px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/valentinehollanov.png") no-repeat center;
+  background-size: contain;
+}
+
+#greeting {
+  background: none;
+  margin-right: 0em;
+  color: #0d1f3a;
+  padding: 20px;
+}
+
+#greeting li {
+  clear: left;
+  border-bottom: 1px dashed #0d1f3a;
+  margin-top: 0.3em;
+}
+
+#greeting .icon img {
+  margin-top: 0.3em;
+  border: 2px solid #fff;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+#footer .menu a,
+#footer .menu {
+  color: #0d1f3a;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #bf3b60;
+}
+
+#footer {
+  border: none;
+  background: none;
+}
+
+.blurb h4 a:link,
+#footer h4 {
+  color: #bf3b60;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #f5a2af;
+  color: #fff;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #fac3cc;
+  color: #000;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #fad7e4;
+  color: #000;
+  border: 2px solid #f5a2af;
+  box-shadow: 0 0 2px #000;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #f5a2af;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  box-shadow: none;
+  background: #fac3cc;
+  color: #000;
+}
+
+#dashboard ul {
+  background: transparent;
+  border: none;
+}
+
+#dashboard .secondary {
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.splash .module h3,
+.splash .news li,
+.home .header h2,
+li.comment,
+dl.meta,
+.bookmark .user,
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+.flash,
+.notice,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #f5a2af;
+}
+
+.comment h4.byline,
+#main .verbose legend,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+.verbose fieldset,
+.draft,
+form ul.notes,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #eba2b4;
+  border-color: #f5a2af;
+}
+
+.flash,
+.notice {
+  background-color: #eba2b4;
+  border-color: #000;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background-color: #fae3eb;
+  border-color: #234075;
+}
+
+.alert.flash,
+.error,
+.comment_error,
+.kudos_error {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+.bookmark .user,
+.bookmark .user .header,
+.reading h4.viewed,
+li.relationships a,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #fac3cc;
+}
+
+.bookmark .user {
+  border-radius: 5px;
+}
+
+.filters .submit input {
+  color: #FFF;
+  background: #f5a2af;
+  border: 1px solid #fac3cc;
+  border-radius: 10px;
+  box-shadow: 0 0 4px #000;
+}
+
+.filters fieldset {
+  border-radius: 20px;
+}
+
+li.blurb,
+.listbox li.blurb,
+li.comment,
+.statistics .index li:nth-of-type(even),
+dl.meta,
+dl.index dd,
+#ibox_wrapper,
+#ibox_content,
+textarea:focus,
+input:focus,
+select:focus {
+  background-color: #fad7e4;
+}
+
+textarea,
+input,
+select,
+option,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background-color: #fff;
+}
+
+li.blurb,
+.listbox li.blurb {
+  border: 4px solid #f5a2af;
+  border-radius: 20px;
+  box-shadow: 0 0 4px #000;
+}
+
+.blurb .header {
+  border-bottom: 2px solid #f5a2af;
+}
+
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  box-shadow: none;
+}
+
+.reading h4.viewed {
+  border: 1px dashed #0d1f3a;
+}
+
+.icon {
+  border: 2px solid #fff;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+.workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.7em;
+  color: #bf3b60;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/warning.png") no-repeat center;
+  background-size: contain;
+  background-position: center 2px;
+}
+
+li.warnings + li.relationships:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/relationship.png") no-repeat center;
+  background-size: contain;
+}
+
+li.relationships + li.characters:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 13px;
+  height: 13px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/character.png") no-repeat center;
+  background-size: contain;
+}
+
+li.characters + li.freeforms:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/tags.png") no-repeat center;
+  background-size: contain;
+}
+
+li.warnings + li.characters:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 13px;
+  height: 13px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/character.png") no-repeat center;
+  background-size: contain;
+  background-position: center 2px;
+}
+
+li.warnings + li.freeforms:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/tags.png") no-repeat center;
+  background-size: contain;
+}
+
+li.relationships + li.freeforms:before {
+  content: "";
+  color: #0d1f3a;
+  font-family: Georgia, serif;
+  font-weight: 600;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/tags.png") no-repeat center;
+  background-size: contain;
+}
+
+ul.tags li.relationships a {
+  color: #bf3b60;
+}
+
+
