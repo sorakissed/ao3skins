@@ -4,15 +4,13 @@ Hello! This is Sora here
 
 Feel free to use any of my ao3 site skins
 
-You can browse through all my designs on AO3 here:
-
 **How to install AO3 site skins:**
 1. Select “Hi, _______” in top right corner
 2. Select “Dashboard”
 3. Select “Skins”
 4. Select “Create Site Skin”
 5. Enter a unique title (it has to be one that hasn’t been used before, so it may need to be very random)
-6. Copy all the code (from any of the designs here) into the CSS section
+6. Copy all the code (from any of the designs here) into the CSS section (on mobile, press the three dots just above the code on the right and press "Copy" and then paste it into the CSS section)
 7. You will then be taken to a new page with your code. Now, scroll down all the way
 8. Select “use” and you’re done!!
 
