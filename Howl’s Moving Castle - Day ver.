@@ -421,4 +421,4 @@ th,
 .thread .even,
 .ui-datepicker tr:hover {
   background: #2e402f;
-}
+} 
