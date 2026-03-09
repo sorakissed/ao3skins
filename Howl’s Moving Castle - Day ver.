@@ -117,7 +117,8 @@ ul.notes,
 .error,
 .comment_error,
 .kudos_error,
-.alert.flash {
+.alert.flash,
+.comment {
   color: #dedca9;
   background: #2e402f;
   border: none;
