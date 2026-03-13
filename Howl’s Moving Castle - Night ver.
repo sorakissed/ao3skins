@@ -476,7 +476,7 @@ div.dynamic,
   box-shadow: none;
 }
 
-.dashboard .group {
+.dashboard > .group {
   border: none;
 }
 
