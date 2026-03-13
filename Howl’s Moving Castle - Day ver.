@@ -486,11 +486,12 @@ div.dynamic,
   box-shadow: none;
 }
 
-.dashboard .group {
+.dashboard > .group {
   border: none;
 }
 
 .dashboard .group .group {
   border: 0.1px solid #a6a485 !important;
 }
+
 
