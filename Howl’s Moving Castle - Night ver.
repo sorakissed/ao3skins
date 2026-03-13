@@ -2,10 +2,22 @@
   background-image: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/movingcastlenight.png");
   background-repeat: no-repeat;
   background-position: center 40%;
-  background-color: #000;
-  height: 240px;
-  box-shadow: 0 0 4px #000;
   background-size: cover;
+  min-height: 160px;
+  box-shadow: 0 0 4px #000;
+}
+
+#header {
+  position: relative;
+}
+
+#header .primary {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 0px;
 }
 
 #outer.wrapper {
@@ -196,12 +208,6 @@ ul.navigation.actions li a,
 #dashboard .current {
   background: #0d1d1f !important;
   color: #dedca9 !important;
-  border-radius: 5px;
-}
-
-#dashboard.own {
-  border-top: 5px solid #dedca9;
-  border-bottom: 5px solid #dedca9;
 }
 
 #dashboard a:hover {
@@ -348,12 +354,12 @@ dd.relationship.tags a {
 }
 
 .blurb h4 a:visited {
-  color: #526270 !important;
+  color: #a9adb0 !important;
 }
 
 #main a:hover {
   background: #0d1d1f;
-  color: dedca9;
+  color: #dedca9;
 }
 
 .statistics .index li:nth-of-type(2n) {
@@ -369,7 +375,7 @@ dd.relationship.tags a {
 form.search input[type=text],
 form.search input[type=submit],
 .autocomplete div.dropdown ul {
-  background: #424347 !important;
+  background: #0d1d1f !important;
   color: #dedca9 !important;
   border: 1px solid #666666;
 }
@@ -418,5 +424,63 @@ th,
 .thread .even,
 .ui-datepicker tr:hover {
   background: #0d1d1f;
+}
+
+#header a:visited,
+#header .primary .open a,
+#header .primary .dropdown:hover a,
+#header .primary .dropdown a:focus,
+#header #search input:focus,
+#header #search input:hover,
+#dashboard a,
+#dashboard span,
+#dashboard .current,
+.heading,
+.group .heading,
+.filters dt a:hover {
+  color: #dedca9;
+}
+
+body,
+.group,
+.group .group,
+.region,
+.flash,
+fieldset,
+fieldset fieldset ul,
+form dl,
+textarea,
+#main .verbose legend,
+.verbose fieldset,
+.notice,
+ul.notes,
+input,
+textarea,
+table,
+th,
+td:hover,
+tr:hover,
+.symbol .question:hover,
+#modal,
+.ui-sortable li,
+.required .autocomplete,
+.autocomplete .notice,
+.system .intro,
+.comment_error,
+.kudos_error,
+div.dynamic,
+.dynamic form,
+#ui-datepicker-div,
+.ui-datepicker table,
+.annotation {
+  box-shadow: none;
+}
+
+.dashboard .group {
+  border: none;
+}
+
+.dashboard .group .group {
+  border: 0.1px solid #a6a485 !important;
 }
 
