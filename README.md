@@ -4,7 +4,7 @@ Hello! This is Sora here
 
 Feel free to use any of my ao3 site skins <3
 
-It should be easier to copy the code from here because:
+How to copy the code:
 - on mobile you press the three dots on the top right of the code, and then press "copy"
 - on laptop/pc you can simply press the copy button on the top right of the code
 
