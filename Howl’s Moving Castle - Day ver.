@@ -47,6 +47,9 @@
 
 #header .heading {
   height: 15em;
+  margin-left: 0;
+  position: relative;
+  left: 0px;
 }
 
 #header .primary {
@@ -60,15 +63,9 @@
 
 #header .heading a {
   color: #dedca9;
-}
-
-#header .heading {
   margin-left: 0;
 }
 
-#header .heading a {
-  margin-left: 0;
-}
 
 .event .userstuff {
   background: #223647;
@@ -376,11 +373,6 @@ dd.relationship.tags a {
   background: #2e402f;
 }
 
-#header .heading {
-  position: relative;
-  left: -40px;
-}
-
 #header #search .text,
 form.search input[type=text],
 form.search input[type=submit],
@@ -494,4 +486,10 @@ div.dynamic,
   border: 0.1px solid #a6a485 !important;
 }
 
+#header {
+  overflow: hidden;
+}
 
+#header .primary {
+  flex-wrap: wrap;
+}
