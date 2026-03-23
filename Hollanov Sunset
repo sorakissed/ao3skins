@@ -462,10 +462,6 @@ div.dynamic,
   border: 0.1px solid #9c917e !important;
 }
 
-#header {
-  overflow-x: hidden;
-}
-
 #header .primary {
   flex-wrap: wrap;
 }
