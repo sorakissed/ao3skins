@@ -49,7 +49,7 @@
   height: 15em;
   margin-left: 0;
   position: relative;
-  left: 0px;
+  left: -40px;
 }
 
 #header .primary {
