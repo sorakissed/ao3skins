@@ -465,3 +465,8 @@ div.dynamic,
 #header .primary {
   flex-wrap: wrap;
 }
+
+.filters .expander {
+  color: #d8cbb0 !important;
+  font-weight: bold;
+}
