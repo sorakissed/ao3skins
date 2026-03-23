@@ -335,17 +335,6 @@ dd.relationship.tags a {
   color: #d8cbb0 !important;
   font-weight: bold;
 }
-
-.filters .expander {
-  background: url("https://64.media.tumblr.com/3c89981f933f9f57157d6dcec6fd85a7/94c6737c6db9ad60-e5/s1280x1920/f7557e617a5439c506721bd326580a0cb4c1f8d8.png") left center no-repeat;
-  color: #d8cbb0 !important;
-  font-weight: bold;
-}
-
-.filters .expanded .expander {
-  background: url("https://64.media.tumblr.com/dab095a2fd9387bc1e0c57747ba6b13f/94c6737c6db9ad60-ad/s1280x1920/c1a4e14e0565cdcac5d3e20bebac3ab440f2d607.png") left center no-repeat;
-}
-
 .blurb h4 a:visited {
   color: #a89c86 !important;
 }
@@ -475,3 +464,9 @@ div.dynamic,
 #header .primary {
   flex-wrap: wrap;
 }
+
+.filters .expander {
+  color: #d8cbb0 !important;
+  font-weight: bold;
+}
+
