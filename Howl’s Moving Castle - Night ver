@@ -477,7 +477,7 @@ div.dynamic,
 }
 
 #header {
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 #header .primary {
