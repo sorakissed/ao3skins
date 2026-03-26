@@ -112,7 +112,7 @@ form.search input[type=submit],
 }
 
 #header #search .text {
-  width: 15em;
+  width: 7em;
 }
 
 .notice,
