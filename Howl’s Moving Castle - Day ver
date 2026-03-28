@@ -212,11 +212,6 @@ ul.navigation.actions li a,
   border-radius: 5px;
 }
 
-#dashboard.own {
-  border-top: 5px solid #dedca9;
-  border-bottom: 5px solid #dedca9;
-}
-
 #dashboard a:hover {
   background: #2e402f;
   color: #dedca9 !important;
