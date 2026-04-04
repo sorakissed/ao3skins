@@ -1,0 +1,463 @@
+#header {
+  background-image: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/reading.jpg");
+  background-repeat: no-repeat;
+  background-position: center 0%;
+  background-size: cover;
+  min-height: 160px;
+}
+
+#header {
+  position: relative;
+}
+
+#header .primary {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background: #755a41;
+  margin-bottom: 0px;
+}
+
+#outer.wrapper {
+  background: #9e856d;
+  background-image: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/brown1.jpg");
+  background-size: 16% auto;
+  background-repeat: repeat;
+  background-position: center top;
+  color: #3a2f27;
+}
+
+#inner.wrapper {
+  margin: 0em 4%;
+}
+
+#main,
+#inner.wrapper,
+.listbox .index,
+.work.own,
+.thread .even {
+  background: #f2eada;
+  color: #3a2f27;
+}
+
+#main .heading {
+  color: #3a2f27 !important;
+}
+
+#header .heading {
+  height: 15em;
+  margin-left: 0;
+  position: relative;
+  left: -40px;
+}
+
+#header .logo,
+#header .heading sup {
+  visibility: hidden;
+}
+
+#header .heading a {
+  color: #d8cbb0;
+  margin-left: 0;
+}
+
+.event .userstuff {
+  background: #b39982;
+  border: 1px solid #d8cbb0;
+  color: #3a2f27;
+}
+
+.filtering .filters #leave_filters {
+  background: #8a7460;
+  color: #d8cbb0;
+}
+
+#main a,
+#greeting a.dropdown-toggle {
+  color: #3a2f27;
+}
+
+#header .actions a {
+  color: #d8cbb0 !important;
+}
+
+#header .actions li:hover a {
+  color: #3a2f27 !important;
+}
+
+#greeting .menu,
+#header .dropdown .menu,
+#header .dropdown:hover a {
+  background: #d9c1a9;
+}
+
+span.submit.actions input.button {
+  display: none;
+}
+
+#greeting img.icon {
+  display: none;
+}
+
+#header #search .text,
+.search [role="tooltip"] {
+  color: #3a2f27 !important;
+  border: 1px solid #8a7460;
+  width: 5em;
+}
+
+form.search input[type=text],
+form.search input[type=submit],
+.autocomplete div.dropdown ul {
+  background: #9e856d !important;
+  color: #3a2f27;
+}
+
+.notice,
+.comment_notice,
+.kudos_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash,
+.comment {
+  color: #3a2f27;
+  background: #d9c1a9;
+  border: none;
+}
+
+.notice a,
+.comment_notice a,
+.kudos_notice a,
+ul.notes a,
+.caution a,
+.error a,
+.comment_error a,
+.kudos_error a,
+.alert.flash a {
+  color: #3a2f27;
+  font-weight: bold;
+}
+
+.splash .module h3 {
+  color: #3a2f27;
+  border-bottom: 2px solid #3a2f27;
+}
+
+.splash .favorite li:nth-of-type(2n+1) a,
+.splash .favorite li:nth-of-type(2n+2) a {
+  color: #3a2f27;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 110%;
+  background: #d9c1a9;
+}
+
+.splash .favorite li:nth-of-type(2n+1) a:hover,
+.splash .favorite li:nth-of-type(2n+2) a:hover {
+  color: #2b2622;
+  font-weight: bold;
+  font-variant: small-caps;
+  background: #d9c1a9;
+}
+
+#footer {
+  background: #a1856c;
+  color: #3a2f27;
+  border-top: 3px solid #d8cbb0;
+}
+
+#footer a,
+#footer .heading {
+  color: #3a2f27;
+}
+
+.actions a,
+.actions a:focus,
+.actions input:focus,
+.action:focus,
+.actions button,
+.actions li input,
+.actions li input[type="submit"],
+input[type="submit"],
+.actions li label,
+ul.navigation.actions li a,
+.action:link,
+.actions a:link {
+  background: #b39982;
+  border: 1px solid #d8cbb0;
+  color: #3a2f27;
+  border-radius: 5px;
+}
+
+.current,
+#dashboard .current {
+  background: #d9c1a9 !important;
+  color: #3a2f27 !important;
+  border-radius: 5px;
+}
+
+#dashboard.own {
+  border-top: 5px solid #d8cbb0;
+  border-bottom: 5px solid #d8cbb0;
+}
+
+#dashboard a:hover {
+  background: #d9c1a9;
+  color: #3a2f27 !important;
+}
+
+#dashboard a {
+  color: #3a2f27;
+}
+
+dl.meta {
+  border: 1px solid #d8cbb0;
+}
+
+.listbox .index,
+.listbox,
+fieldset fieldset.listbox {
+  background: #d9c1a9;
+}
+
+form dl,
+fieldset,
+fieldset fieldset,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+input,
+select,
+select:focus,
+textarea,
+span.symbol.question,
+.own {
+  background: #c9a98b !important;
+  color: #3a2f27 !important;
+  border: 1px solid #d8cbb0;
+}
+
+#header .search form,
+#header .search fieldset,
+#header .search dl {
+  background: transparent !important;
+}
+
+.autocomplete li.added,
+.post .meta dd ul li.added,
+label,
+label.required {
+  color: #3a2f27;
+}
+
+span.delete {
+  background: #d9c1a9;
+}
+
+span.delete a {
+  color: #3a2f27;
+  font-weight: bold;
+}
+
+.ui-sortable li,
+.dynamic form,
+div.dynamic {
+  background: #d9c1a9;
+  border: 1px solid #d8cbb0;
+  color: #3a2f27;
+}
+
+.dropdown {
+  background: #d9c1a9;
+}
+
+form.verbose legend,
+.verbose form legend {
+  background: #d9c1a9;
+  color: #3a2f27;
+}
+
+li.blurb {
+  border: 1px solid #d8cbb0;
+}
+
+.draft {
+  background: #d9c1a9;
+  color: #3a2f27;
+}
+
+#header h2,
+.draft .wrapper {
+  background: #8a7460;
+  border: 1px solid #d8cbb0;
+}
+
+.reading h4.viewed,
+dl.index dd,
+table,
+th,
+dt.child {
+  background: #d9c1a9;
+  color: #3a2f27;
+}
+
+#modal,
+span.replied {
+  background: #d9c1a9;
+  color: #3a2f27;
+  border: 2px solid #d8cbb0;
+}
+
+.thread .even {
+  background: #b39982;
+}
+
+.unread,
+span.unread {
+  background: #d9c1a9;
+  color: #3a2f27;
+}
+
+.relationships .tag,
+.work .relationships a.tag,
+dd.relationship.tags a {
+  background: none;
+  color: #3a2f27 !important;
+  font-weight: bold;
+}
+
+.blurb h4 a:visited {
+  color: #5a4b3f !important;
+}
+
+#main a:hover {
+  background: #d9c1a9;
+  color: #3a2f27;
+}
+
+.statistics .index li:nth-of-type(2n) {
+  background: #d9c1a9;
+}
+
+h4.heading.byline {
+  background: #d9c1a9;
+  color: #3a2f27;
+}
+
+#header form.search input[type="submit"] {
+  display: none !important;
+}
+
+#dashboard {
+  border: none !important;
+}
+
+#dashboard,
+#dashboard .primary,
+#dashboard .navigation {
+  border-top: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .menu,
+#small_login,
+.group.listbox,
+fieldset fieldset.listbox,
+form blockquote.userstuff,
+input:focus,
+textarea:focus,
+li.relationships a,
+.group.listbox .index,
+.dashboard fieldset fieldset.listbox .index,
+#dashboard a:hover,
+th,
+#dashboard .secondary,
+.secondary,
+.work.navigation .download,
+.javascript .work.navigation .download .secondary,
+.thread .even,
+.ui-datepicker tr:hover {
+  background: #d9c1a9;
+}
+
+#header a:visited,
+#header .primary .open a,
+#header .primary .dropdown:hover a,
+#header .primary .dropdown a:focus,
+#header #search input:focus,
+#header #search input:hover,
+#dashboard a,
+#dashboard span,
+#dashboard .current,
+.heading,
+.group .heading,
+.filters dt a:hover {
+  color: #3a2f27;
+}
+
+#header h1.heading a {
+  color: #d8cbb0;
+}
+
+body,
+.group,
+.group .group,
+.region,
+.flash,
+fieldset,
+fieldset fieldset ul,
+form dl,
+textarea,
+#main .verbose legend,
+.verbose fieldset,
+.notice,
+ul.notes,
+input,
+textarea,
+table,
+th,
+td:hover,
+tr:hover,
+.symbol .question:hover,
+#modal,
+.ui-sortable li,
+.required .autocomplete,
+.autocomplete .notice,
+.system .intro,
+.comment_error,
+.kudos_error,
+div.dynamic,
+.dynamic form,
+#ui-datepicker-div,
+.ui-datepicker table,
+.annotation {
+  box-shadow: none;
+}
+
+.dashboard > .group {
+  border: none;
+}
+
+.dashboard .group .group {
+  border: 0.1px solid #9c917e !important;
+}
+
+#header .primary {
+  flex-wrap: wrap;
+}
+
+.filters .expander {
+  color: #3a2f27 !important;
+  font-weight: bold;
+}
