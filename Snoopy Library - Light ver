@@ -461,3 +461,5 @@ div.dynamic,
   color: #3a2f27 !important;
   font-weight: bold;
 }
+
+.javascript { background: #3a2f27; } 
