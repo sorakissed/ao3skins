@@ -111,7 +111,7 @@ span.submit.actions input.button {
 form.search input[type=text],
 form.search input[type=submit],
 .autocomplete div.dropdown ul {
-  background: #968160 !important;
+  background: #755a40 !important;
   color: #3a2f27;
 }
 
