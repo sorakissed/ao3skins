@@ -470,3 +470,5 @@ div.dynamic,
   color: #d8cbb0 !important;
   font-weight: bold;
 }
+
+.javascript { background: #332d28; } 
