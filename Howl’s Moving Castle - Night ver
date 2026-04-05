@@ -474,3 +474,4 @@ div.dynamic,
   font-weight: bold;
 }
 
+.javascript { background: #000; } 
