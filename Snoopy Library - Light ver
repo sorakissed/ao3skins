@@ -21,7 +21,7 @@
 }
 
 #outer.wrapper {
-  background: #9e856d;
+  background: #a68b72;
   background-image: url("https://raw.githubusercontent.com/sorakissed/ao3photos/main/brown1.jpg");
   background-size: 16% auto;
   background-repeat: repeat;
@@ -64,7 +64,7 @@
 }
 
 .event .userstuff {
-  background: #b39982;
+  background: #d4bfa1;
   border: 1px solid #d8cbb0;
   color: #3a2f27;
 }
@@ -90,7 +90,7 @@
 #greeting .menu,
 #header .dropdown .menu,
 #header .dropdown:hover a {
-  background: #d9c1a9;
+  background: #e0ceb4;
 }
 
 span.submit.actions input.button {
@@ -111,7 +111,7 @@ span.submit.actions input.button {
 form.search input[type=text],
 form.search input[type=submit],
 .autocomplete div.dropdown ul {
-  background: #9e856d !important;
+  background: #968160 !important;
   color: #3a2f27;
 }
 
@@ -126,7 +126,7 @@ ul.notes,
 .alert.flash,
 .comment {
   color: #3a2f27;
-  background: #d9c1a9;
+  background: #e0ceb4;
   border: none;
 }
 
@@ -154,7 +154,7 @@ ul.notes a,
   font-weight: bold;
   font-variant: small-caps;
   font-size: 110%;
-  background: #d9c1a9;
+  background: #e0ceb4;
 }
 
 .splash .favorite li:nth-of-type(2n+1) a:hover,
@@ -162,7 +162,7 @@ ul.notes a,
   color: #2b2622;
   font-weight: bold;
   font-variant: small-caps;
-  background: #d9c1a9;
+  background: #e0ceb4;
 }
 
 #footer {
@@ -188,7 +188,7 @@ input[type="submit"],
 ul.navigation.actions li a,
 .action:link,
 .actions a:link {
-  background: #b39982;
+  background: #d4bfa1;
   border: 1px solid #d8cbb0;
   color: #3a2f27;
   border-radius: 5px;
@@ -196,7 +196,7 @@ ul.navigation.actions li a,
 
 .current,
 #dashboard .current {
-  background: #d9c1a9 !important;
+  background: #e0ceb4 !important;
   color: #3a2f27 !important;
   border-radius: 5px;
 }
@@ -207,7 +207,7 @@ ul.navigation.actions li a,
 }
 
 #dashboard a:hover {
-  background: #d9c1a9;
+  background: #e0ceb4;
   color: #3a2f27 !important;
 }
 
@@ -222,7 +222,7 @@ dl.meta {
 .listbox .index,
 .listbox,
 fieldset fieldset.listbox {
-  background: #d9c1a9;
+  background: #e0ceb4;
 }
 
 form dl,
@@ -238,7 +238,7 @@ select:focus,
 textarea,
 span.symbol.question,
 .own {
-  background: #c9a98b !important;
+  background: #c9b391 !important;
   color: #3a2f27 !important;
   border: 1px solid #d8cbb0;
 }
@@ -257,7 +257,7 @@ label.required {
 }
 
 span.delete {
-  background: #d9c1a9;
+  background: #e0ceb4;
 }
 
 span.delete a {
@@ -268,18 +268,18 @@ span.delete a {
 .ui-sortable li,
 .dynamic form,
 div.dynamic {
-  background: #d9c1a9;
+  background: #e0ceb4;
   border: 1px solid #d8cbb0;
   color: #3a2f27;
 }
 
 .dropdown {
-  background: #d9c1a9;
+  background: #e0ceb4;
 }
 
 form.verbose legend,
 .verbose form legend {
-  background: #d9c1a9;
+  background: #e0ceb4;
   color: #3a2f27;
 }
 
@@ -288,7 +288,7 @@ li.blurb {
 }
 
 .draft {
-  background: #d9c1a9;
+  background: #e0ceb4;
   color: #3a2f27;
 }
 
@@ -303,24 +303,24 @@ dl.index dd,
 table,
 th,
 dt.child {
-  background: #d9c1a9;
+  background: #e0ceb4;
   color: #3a2f27;
 }
 
 #modal,
 span.replied {
-  background: #d9c1a9;
+  background: #e0ceb4;
   color: #3a2f27;
   border: 2px solid #d8cbb0;
 }
 
 .thread .even {
-  background: #b39982;
+  background: #d4bfa1;
 }
 
 .unread,
 span.unread {
-  background: #d9c1a9;
+  background: #e0ceb4;
   color: #3a2f27;
 }
 
@@ -337,16 +337,16 @@ dd.relationship.tags a {
 }
 
 #main a:hover {
-  background: #d9c1a9;
+  background: #e0ceb4;
   color: #3a2f27;
 }
 
 .statistics .index li:nth-of-type(2n) {
-  background: #d9c1a9;
+  background: #e0ceb4;
 }
 
 h4.heading.byline {
-  background: #d9c1a9;
+  background: #e0ceb4;
   color: #3a2f27;
 }
 
@@ -388,7 +388,7 @@ th,
 .javascript .work.navigation .download .secondary,
 .thread .even,
 .ui-datepicker tr:hover {
-  background: #d9c1a9;
+  background: #e0ceb4;
 }
 
 #header a:visited,
