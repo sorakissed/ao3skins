@@ -451,3 +451,5 @@ li.relationships + li.freeforms:before {
 ul.tags li.relationships a {
   color: #bf3b60;
 }
+
+.javascript { background: #fae3eb; } 
