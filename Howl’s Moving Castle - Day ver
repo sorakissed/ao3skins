@@ -480,3 +480,4 @@ div.dynamic,
   font-weight: bold;
 }
 
+.javascript { background: #334f34; } 
