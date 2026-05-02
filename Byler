@@ -107,13 +107,6 @@ span.submit.actions input.button {
   width: 5em;
 }
 
-form.search input[type=text],
-form.search input[type=submit],
-.autocomplete div.dropdown ul {
-  background: #2a4166 !important;
-  color: #3d3229;
-}
-
 .notice,
 .comment_notice,
 .kudos_notice,
@@ -162,6 +155,10 @@ ul.notes a,
   font-weight: bold;
   font-variant: small-caps;
   background: #f0e4cc;
+}
+
+.splash .favorite a:active {
+  color: #dfd3b8;
 }
 
 #footer {
@@ -459,6 +456,13 @@ div.dynamic,
 .filters .expander {
   color: #3d3229 !important;
   font-weight: bold;
+}
+
+form.search input[type=text],
+form.search input[type=submit],
+.autocomplete div.dropdown ul {
+  background: #2a4166 !important;
+  color: #dfd3b8 !important;
 }
 
 .javascript {
