@@ -1,0 +1,8 @@
+body:has(.userstuff p[class*="claude"])::before {
+  content: "⚠ AI-generated content detected";
+  font-weight: bold;
+  color: white;
+  background: #87c0fa;
+  padding: 12px;
+  display: block;
+}
