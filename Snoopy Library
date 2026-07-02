@@ -472,3 +472,7 @@ div.dynamic,
 }
 
 .javascript { background: #332d28; } 
+
+html {
+  scrollbar-color: #d8cbb0 #332d28;
+}
